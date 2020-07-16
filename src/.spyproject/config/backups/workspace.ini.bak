@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['main.py', 'run.py', 'config\\default.yaml', 'config\\envs\\sc2.yaml', 'config\\algs\\qmix.yaml', 'envs\\multiagentenv.py', 'controllers\\basic_controller.py', 'envs\\__init__.py', 'runners\\episode_runner.py', 'modules\\agents\\rnn_agent.py', 'components\\episode_buffer.py', 'components\\action_selectors.py', 'modules\\mixers\\qmix.py']
+
